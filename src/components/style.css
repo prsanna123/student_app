@@ -1,0 +1,17 @@
+.card{
+    
+  background-Color: "#75cfb8";
+  display:flex;
+  align-Items: 'center'
+}
+.card-body{
+    border: "10px solid #03506f";
+  border-Radius: "30px";
+  margin: "20px";
+  width: "270px";
+  height: "170px";
+  background-Color: "#75cfb8";
+  
+  justify-Content: 'space-between';
+  align-Items: 'center'
+}
